@@ -1,6 +1,6 @@
 <div align="center"><img src="img/sip-logo.png" alt="戦略的イノベーション創造プログラム" /></div>
 
-<h1 style="margin-bottom: 2em; text-align: center;">地理空間データ連携基盤</h1>
+<h1 align="center">地理空間データ連携基盤</h1>
 
 本資料は、スマートシティリファレンスアーキテクチャにおける地理空間データの利活用のロードマップ指針を踏まえ、「地理空間データ連携基盤」に関する仕様を定義することを目的とする。
 
