@@ -1,4 +1,6 @@
+<div align="center">
 ![](img/sip-logo.png)
+</div>
 
 # 地理空間データ連携基盤
 
