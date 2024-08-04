@@ -1,6 +1,6 @@
 <div align="center"><img src="img/sip-logo.png" alt="戦略的イノベーション創造プログラム" /></div>
 
-# 地理空間データ連携基盤
+<h1 style="margin-bottom: 2em; text-align: center;">地理空間データ連携基盤</h1>
 
 ## 本資料の位置づけと目的
 
